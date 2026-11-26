@@ -27,8 +27,7 @@ Project Structure
 
 Student-Management-System/
 │
-├── main.py
-├── students.json
+├── student_management_system.py
 └── README.md
 
 Note: "students.json" is created automatically when student data is first saved.
@@ -43,7 +42,7 @@ git clone https://github.com/rakeshbakkamunthala-crypto/Student-Management-Syste
 
 3. Run the Python program:
 
-python main.py
+python student_management_system.py
 
 Learning Outcomes
 
