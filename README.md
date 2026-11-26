@@ -1,20 +1,59 @@
-# Student Management System
 
-A Python project using OOP and File Handling.
+Student Management System
 
-## Features
-- Add Student
-- View Students
-- Search Student
-- Update Student
-- Delete Student
-- Permanent Data Storage
+A simple Python-based Student Management System that helps manage student records through a menu-driven console application.
 
-## Technologies
+About the Project
+
+This project is developed using Python and Object-Oriented Programming (OOP). It uses JSON file handling to store student records permanently.
+
+Features
+
+- Add new student records
+- View all student records
+- Search students by roll number
+- Update student details
+- Delete student records
+- Store data permanently using JSON
+
+Technologies Used
+
 - Python
-- OOP
+- Object-Oriented Programming (OOP)
 - JSON
 - File Handling
 
-## Author
-- Rakesh
+Project Structure
+
+Student-Management-System/
+│
+├── main.py
+├── students.json
+└── README.md
+
+Note: "students.json" is created automatically when student data is first saved.
+
+How to Run
+
+1. Clone this repository:
+
+git clone https://github.com/rakeshbakkamunthala-crypto/Student-Management-System.git
+
+2. Open the project folder.
+
+3. Run the Python program:
+
+python main.py
+
+Learning Outcomes
+
+- Practiced Python OOP concepts
+- Learned JSON data storage
+- Implemented CRUD operations
+- Improved problem-solving skills
+
+Author
+
+Rakesh Bakkamunthala
+
+GitHub: "rakeshbakkamunthala-crypto" (https://github.com/rakeshbakkamunthala-crypto)
